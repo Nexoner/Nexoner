@@ -28,9 +28,9 @@
 ## 🏗 Active Experiments (Project Progress)
 > *Self-correction: Interest fades after decryption. Tracking completion to force finalization.*
 
-* **[PROJECT_NAME_1]** — Systemic Game Engine 
+* **[Big_Trip]** — Systemic Game Engine 
     `[████████░░] 80%` — *Status: Optimizing sub-systems.*
-* **[PROJECT_NAME_2]** — Financial Screener 
+* **[IT_MANAGER]** — Financial Screener 
     `[███░░░░░░░] 30%` — *Status: Decrypting API patterns.*
 
 ---
