@@ -43,5 +43,5 @@ $ status --mental-load
 [||||||||||          ] 50% - Ready for new intellectual challenges.
 $ focus --current
 Developing high-precision gaming systems & automated finance tools.
-
+```
 <div align="center"> <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DNexoner%26theme%3Dgithub-dark%26bg_color%3D0d1117%26color%3D58a6ff%26line%3D58a6ff%26point%3Dc9d1d9%26area%3Dtrue%26hide_border%3Dtrue" width="100%" /> </div>
